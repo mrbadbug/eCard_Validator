@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+tensorflow
+joblib
+streamlit
+lightgbm
+xgboost
+matplotlib
+fastapi
